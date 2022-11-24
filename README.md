@@ -3,4 +3,4 @@ Exercice 5
 
 Utilisez cette fonction pour afficher dans la console soit " orientation : paysage" ou " orientation : portrait".
 
-Indication : l'objet window.screen contient les information nécessaires..
+Indication : l'objet window.screen contient les information nécessaires...
